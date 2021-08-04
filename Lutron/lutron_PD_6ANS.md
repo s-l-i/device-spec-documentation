@@ -4,8 +4,6 @@
 
  #### Photograph of Equipment
 
- ![Lutron Switch](lutron_PD_6ANS.jpg)
-
 <img src="lutron_PD_6ANS.jpg" alt="Lutron Switch" width="400">
 
  #### Component Data Sheets or Techical Manuals
