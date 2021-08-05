@@ -1,37 +1,41 @@
 # Equipment name
  
- Sample Name
+ Lutron Pico Remote (PJ2-3BRL)
 
  #### Photograph of Equipment
 
- ![sample image alt text](linkableImage.png)
+<img src="lutron_pico1.jpg" alt="Title" width="400">
+<img src="lutron_pico2.jpg" alt="Title" width="400">
+<img src="lutron_pico3.jpg" alt="Title" width="400">
+
 
  #### Component Data Sheets or Techical Manuals
  
- Sample link here
+<a href="0301710a_Caseta Advanced Inst.pdf">Link to advanced Lutron switch installation guide</a>
 
  #### General Installation Area (in-unit)
 
- Name of unit location for installation
+ The remote can be installed:
+ 1. On the wall via a separate mount (CW-1)
+ or 
+ 2. On a furniture-mountable holder (L-PED1-WH)
 
  #### Expected Use-Case Scenario
 
- Short description of how:
- - The User interacts with the equipment
- - The SLI agent interacts with the equipment
+The Remote can be paired to the Lutron hub and assigned to control either:
+Room Lights
+or
+Sonos System
 
  #### Installation and Configuration Steps
- > Include the Manufacturers  
- > steps here  
+ > The wall-mount is a screwless faceplate that can fill any one-gang spot or be attached to an uncut portion of the wall
+ > The remote can also operate separate from any kind of holder
 
- as well as
-
- > Document the installation procedure for  
- > both the home SLI labs  
- > as well as the expected 303 Battery Installation steps  
+ > 1. Open the Lutron app
+ > 2. Select "add device" from settings
+ > 3. Select Pico Remote from the provided list
+ > 4. When prompted, hold the bottom button of the remote for 10 seconds, until the green indicator LED flashes
 
  #### Expected Return Data Type and Sample
 
- > Include a valid JSON object  
- > or other data object  
- 
+ > Does not collect or generate data, but updates states instead

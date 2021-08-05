@@ -8,17 +8,15 @@
 
  #### Component Data Sheets or Techical Manuals
  
- Sample link here
+ <a href="caseta_smart_bridge_pro.pdf">Link to official Lutron installation guide</a>
 
  #### General Installation Area (in-unit)
 
- Name of unit location for installation
+ In-wall, on IoT utility sled
 
  #### Expected Use-Case Scenario
 
- Short description of how:
- - The User interacts with the equipment
- - The SLI agent interacts with the equipment
+- One per unit , designated switch control
 
  #### Installation and Configuration Steps
  > 1. Connect hub to router
@@ -39,6 +37,8 @@ Anecdotal Installation Record
 
  #### Installation concerns
 > Updating firmware requires an open ethernet connection.  If traffic is monitored onsite, how can we assure the device can retrieve updates reliably?
+>  
+> IMPORTANT INSTALLATION NOTE: all Lutron devices must be configured before they are connected to the SmartThings system
 
 
  
