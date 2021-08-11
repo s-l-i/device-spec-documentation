@@ -42,6 +42,5 @@
 
  #### Expected Return Data Type and Sample
 
- > Include a valid JSON object  
- > or other data object  
+ > Samsung API provides state data and sets device status per user requests  
  
