@@ -35,6 +35,7 @@
 
  #### Expected Return Data Type and Sample
 
- > Include a valid JSON object  
- > or other data object  
+ > HVAC Status
+ > Temperature at Thermostat
+ > Temperature at any connected sensor
  
