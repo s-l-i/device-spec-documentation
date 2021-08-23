@@ -27,7 +27,7 @@ The following software and hardware integrations have been tested on a HA setup
 
 #### Ecobee
 
-<img src="/HA Screenshots/ecobee_ha.png" title="Thermostat Card" width="400">
+<img src="ecobee_ha.png" title="Thermostat Card" width="400">
 
 <a href="https://www.home-assistant.io/integrations/ecobee/">Ecobee Integration Documentation</a>
 
@@ -38,7 +38,7 @@ Through standard interface:
 
 #### Lutron Caseta Ecosystem
 
-<img src="/HA Screenshots/lutron_dimmer_HA.png" title="Dimmer Switch Card" width=400>
+<img src="lutron_dimmer_HA.png" title="Dimmer Switch Card" width=400>
 
 <a href="https://www.home-assistant.io/integrations/lutron_caseta/">Lutron Caseta Integration Documentation</a>
 
@@ -48,7 +48,7 @@ Through standard interface:
 
 #### SmartThings
 
-<img src="/HA Screenshots/smartthings_sensors_ha.png" title="Smartthings Sensor Display Example" width=400>
+<img src="smartthings_sensors_ha.png" title="Smartthings Sensor Display Example" width=400>
 
 <a href="https://www.home-assistant.io/integrations/smartthings/">SmartThings Integration Documentation</a>
 
@@ -73,7 +73,7 @@ NOTE: as of 8/23, the locks are currently installed without their radio units.
 #### Sonos
 NOTE: this integration is not currently a part of the SLI Connect tech package
 
-<img src="/HA Screenshots/spotify_card_HA.png" title="Spotify Card" width=400>
+<img src="spotify_card_HA.png" title="Spotify Card" width=400>
 
 <a href="https://www.home-assistant.io/integrations/sonos">Sonos Integration Documentation</a>
 
@@ -86,7 +86,7 @@ Through standard interface:
 
 NOTE: this integration is not currently a part of the SLI Connect tech package
 
-<img src="/HA Screenshots/door_sensors_HA.png" title="Garage Door Control" width=400>
+<img src="door_sensors_HA.png" title="Garage Door Control" width=400>
 
 <a href="https://www.home-assistant.io/integrations/myq">MyQ Integration Documentation</a>
 
@@ -100,9 +100,9 @@ Through standard interface:
 
 NOTE: this integration is not currently a part of the SLI Connect tech package
 
-<img src="/HA Screenshots/hue_lights_HA.png" title="Phillips Hue" width=400>
+<img src="hue_lights_HA.png" title="Phillips Hue" width=400>
 <br>
-<img src="/HA Screenshots/hue_lights_detail_HA.png" title="Phillips Hue Detail" width=400>
+<img src="hue_lights_detail_HA.png" title="Phillips Hue Detail" width=400>
 <br>
 
 <a href="https://www.home-assistant.io/integrations/hue">Phillips Hue Integration Documentation</a>
@@ -118,9 +118,9 @@ Through standard interface:
 
 NOTE: this integration is not currently a part of the SLI Connect tech package
 
-<img src="/HA Screenshots/roku_power_HA.png" title="Roku Power Toggle" width=400>
+<img src="roku_power_HA.png" title="Roku Power Toggle" width=400>
 <br>
-<img src="/HA Screenshots/roku_app_state_HA.png" title="Roku App State and Playback" width=400>
+<img src="roku_app_state_HA.png" title="Roku App State and Playback" width=400>
 <br>
 
 <a href="https://www.home-assistant.io/integrations/roku/">Roku Integration Documentation</a>
