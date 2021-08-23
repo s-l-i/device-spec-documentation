@@ -32,6 +32,9 @@
 
  NOTE: no new build should require the Ecobee power adapter
 
+ CRUCTIAL NOTE: what account do we set up these thermostats using? Building owner? Manager? SLI?
+ 
+
 
  #### Expected Return Data Type and Sample
 
