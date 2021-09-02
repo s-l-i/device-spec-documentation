@@ -31,6 +31,9 @@ The following software and hardware integrations have been tested on a HA setup
 
 <a href="https://www.home-assistant.io/integrations/ecobee/">Ecobee Integration Documentation</a>
 
+IoT Class:
+> Cloud Polling
+
 Through standard interface:
 > Temperature
 > Independent fan control (toggle)
@@ -42,6 +45,9 @@ Through standard interface:
 
 <a href="https://www.home-assistant.io/integrations/lutron_caseta/">Lutron Caseta Integration Documentation</a>
 
+IoT Class:
+> Local Push
+
 Through standard interface:
 > Toggle light on / off
 > Adjust brightness level of connected light
@@ -51,6 +57,9 @@ Through standard interface:
 <img src="smartthings_sensors_ha.png" title="Smartthings Sensor Display Example" width=400>
 
 <a href="https://www.home-assistant.io/integrations/smartthings/">SmartThings Integration Documentation</a>
+
+IoT Class:
+> Cloud Push
 
 Through standard interface:
 > Sensor state
@@ -130,4 +139,4 @@ Through standard interface:
 > Control program playback (play/pause)
 > Control TV volume (through App Control card)
 
-### Logging and Data
+
