@@ -29,6 +29,7 @@
  > 2a. Rh, Rc, G, C, W/W1, Y/Y1
  > 2b. Connect these wires to the bracket.  Ensure secure connection.
  > 3. Connect the thermostat to the mount
+ > 4. Connect the thermostat to the WAN using provided security keys (no hardwired option available)
 
  NOTE: no new build should require the Ecobee power adapter
 
